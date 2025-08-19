@@ -129,14 +129,6 @@ Frontend/
 - Export staff records to Excel or PDF
 - Responsive design for mobile and desktop
 
-### Testing
-
-To run tests for the frontend, use:
-
-```sh
-npm test
-```
-
 ---
 
 ## Conclusion
