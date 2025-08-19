@@ -100,7 +100,7 @@ Frontend/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (check with `node --version`)
+- [Node.js]v18.20.1 (check with `node --version`)
 - npm 10.5.0 (check with `npm --version`)
 
 ### Setup & Run
